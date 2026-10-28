@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/migrate/commit/6dc7bce355dcecb52610e3309b8f44545104cb74",
       "git:hexsha": "6dc7bce355dcecb52610e3309b8f44545104cb74",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
