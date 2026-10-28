@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "migrate",
+  "versions": [
+    {
+      "commit": "6dc7bce355dcecb52610e3309b8f44545104cb74",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:20:34.944220+00:00"
+    }
+  ]
+}
