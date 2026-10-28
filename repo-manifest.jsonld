@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/databrickslabs/migrate",
+  "@type": "gh:Repository",
+  "gh:name": "migrate",
+  "gh:owner": "databrickslabs",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/databrickslabs/migrate/commit/6dc7bce355dcecb52610e3309b8f44545104cb74",
+      "git:hexsha": "6dc7bce355dcecb52610e3309b8f44545104cb74",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
